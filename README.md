@@ -1,6 +1,6 @@
-# AI-Based Corruption Detection in Government Transactions
+# Corruption Detection in Government Transactions
 
-An AI-based web application for identifying potentially suspicious transactions in government schemes using Flask, SQLite, SQLAlchemy, and a Random Forest machine learning model.
+An Web application for identifying potentially suspicious transactions in government schemes using Flask, SQLite, SQLAlchemy, and a Random Forest machine learning model.
 
 The system allows administrators and officers to manage government schemes and transactions while automatically calculating a corruption-risk probability for each transaction.
 
