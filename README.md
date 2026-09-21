@@ -1,4 +1,4 @@
-# AI-Powered Corruption Detection in Government Transactions
+# Corruption Detection in Government Transactions
 
 A Flask-based web application that uses a **Random Forest machine learning model** to identify potentially suspicious government transactions and estimate their corruption risk.
 
@@ -40,7 +40,7 @@ The system combines:
 - Associate transactions with government schemes
 - Display transaction history
 
-### 🤖 AI-Based Corruption Detection
+### 🤖 Corruption Detection
 - Predict corruption risk for transactions
 - Generate corruption probability
 - Classify transactions as:
